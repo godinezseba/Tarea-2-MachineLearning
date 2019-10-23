@@ -1,0 +1,5 @@
+# carpeta de cache
+.ipynb_checkpoints
+# datos parte 2 (pesa mucho)
+mturk-datasets.tar.gz
+mturk-datasets
